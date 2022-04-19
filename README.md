@@ -1,4 +1,3 @@
-#Access it online:
 www.palanca.ao
 
 # Getting Started with Create React App
